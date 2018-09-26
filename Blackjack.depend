@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1395007641 source:c:\users\kakkemu\desktop\proyecto sonata arctica\sa\blackjack\blackjack.c
+	<time.h>
+	<allegro.h>
+	<stdio.h>
+
